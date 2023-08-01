@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a4fbfcd.css",
+    "main.js": "/static/js/main.86573cb0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/faculty-in-charge.jpg": "/static/media/faculty-in-charge.5181c747865190a0d0a9.jpg",
+    "static/media/head-faculty.jpg": "/static/media/head-faculty.b7ffade79887ca01b94a.jpg",
+    "static/media/maths_faculty.jpg": "/static/media/maths_faculty.409b8cbf390fd7deaee9.jpg",
+    "static/media/cricket.jpg": "/static/media/cricket.92a85b43860759f748aa.jpg",
+    "static/media/biology_faculty.jpg": "/static/media/biology_faculty.47fa4d11f6fb7943b726.jpg",
+    "static/media/chemistry_faculty.jpg": "/static/media/chemistry_faculty.79317cdcd06ea37a572f.jpg",
+    "static/media/coputer.jpeg": "/static/media/coputer.1a808aaf8fc680c75aee.jpeg",
+    "static/media/chemistry.jpg": "/static/media/chemistry.786f2ac119049479e8ae.jpg",
+    "static/media/biology.jpg": "/static/media/biology.d9071ecd4cb30728fbe3.jpg",
+    "static/media/pysics.gif": "/static/media/pysics.681461a9a9979af8d3f4.gif",
+    "static/media/football.jpg": "/static/media/football.ce0c5cbb2a2e4369d7a3.jpg",
+    "static/media/badminton.jpg": "/static/media/badminton.209430467c553cf97c78.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.c6a7f33b47ebf18de396.jpg",
+    "static/media/img-3.jpg": "/static/media/img-3.0802a76be9362fe3120a.jpg",
+    "index.html": "/index.html",
+    "main.5a4fbfcd.css.map": "/static/css/main.5a4fbfcd.css.map",
+    "main.86573cb0.js.map": "/static/js/main.86573cb0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4fbfcd.css",
+    "static/js/main.86573cb0.js"
+  ]
+}
